@@ -1,0 +1,6 @@
+rootProject.name = 'serviceloader-sample'
+include 'MessageServiceApi'
+include 'MessageServiceImpl1'
+include 'MessageServiceImpl2'
+include 'MessageClient'
+
